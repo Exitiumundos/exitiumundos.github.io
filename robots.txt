@@ -9,13 +9,6 @@ User-agent: archive.org_bot
 Disallow: /
 
 User-agent: *
-Disallow: /forum/
-Disallow: /private/
-Disallow: /rss/
-Disallow: /osint/
-Disallow: /api/
-Disallow: /data/
-Disallow: /css/
 
 User-agent: Rogerbot
 User-agent: Exabot
@@ -67,4 +60,305 @@ User-agent: CyotekWebCrawler
 User-agent: Whizbang
 User-agent: UniverseBot
 User-agent: SlySearch
-Disallow: /
+User-agent: ABCdatos BotLink
+User-agent: Acme.Spider
+User-agent: Ahoy! The Homepage Finder
+User-agent: Alkaline
+User-agent: Anthill
+User-agent: Walhello appie
+User-agent: Arachnophilia
+User-agent: Arale
+User-agent: Araneo
+User-agent: AraybOt
+User-agent: ArchitextSpider
+User-agent: Aretha
+User-agent: ARIADNE
+User-agent: arks
+User-agent: AskJeeves
+User-agent: ASpider (Associative Spider)
+User-agent: ATN Worldwide
+User-agent: Atomz.com Search Robot
+User-agent: AURESYS
+User-agent: BackRub
+User-agent: Bay Spider
+User-agent: Big Brother
+User-agent: Bjaaland
+User-agent: BlackWidow
+User-agent: Die Blinde Kuh
+User-agent: Bloodhound
+User-agent: Borg-Bot
+User-agent: BoxSeaBot
+User-agent: bright.net caching robot
+User-agent: BSpider
+User-agent: CACTVS Chemistry Spider
+User-agent: Calif
+User-agent: Cassandra
+User-agent: Digimarc Marcspider/CGI
+User-agent: Checkbot
+User-agent: ChristCrawler.com
+User-agent: churl
+User-agent: cIeNcIaFiCcIoN.nEt
+User-agent: CMC/0.01
+User-agent: Collective
+User-agent: Combine System
+User-agent: Conceptbot
+User-agent: ConfuzzledBot
+User-agent: CoolBot
+User-agent: Web Core / Roots
+User-agent: XYLEME Robot
+User-agent: Internet Cruiser Robot
+User-agent: Cusco
+User-agent: CyberSpyder Link Test
+User-agent: CydralSpider
+User-agent: Desert Realm Spider
+User-agent: DeWeb(c) Katalog/Index
+User-agent: DienstSpider
+User-agent: Digger
+User-agent: Digital Integrity Robot
+User-agent: Direct Hit Grabber
+User-agent: DNAbot
+User-agent: DownLoad Express
+User-agent: DragonBot
+User-agent: DWCP (Dridus' Web Cataloging Project)
+User-agent: e-collector
+User-agent: EbiNess
+User-agent: EIT Link Verifier Robot
+User-agent: ELFINBOT
+User-agent: Emacs-w3 Search Engine
+User-agent: ananzi
+User-agent: esculapio
+User-agent: Esther
+User-agent: Evliya Celebi
+User-agent: FastCrawler
+User-agent: Fluid Dynamics Search Engine robot
+User-agent: Felix IDE
+User-agent: Wild Ferret Web Hopper #1, #2, #3
+User-agent: FetchRover
+User-agent: fido
+User-agent: HÃ¤mÃ¤hÃ¤kki
+User-agent: KIT-Fireball
+User-agent: Fish search
+User-agent: Fouineur
+User-agent: Robot Francoroute
+User-agent: Freecrawl
+User-agent: FunnelWeb
+User-agent: gammaSpider, FocusedCrawler
+User-agent: gazz
+User-agent: GCreep
+User-agent: GetBot
+User-agent:  GetURL
+User-agent: Golem
+User-agent: Googlebot
+User-agent: Grapnel/0.01 Experiment
+User-agent: Griffon
+User-agent: Gromit
+User-agent: Northern Light Gulliver
+User-agent: Gulper Bot
+User-agent: HamBot
+User-agent: Harvest
+User-agent: havIndex
+User-agent: HI (HTML Index) Search
+User-agent: Hometown Spider Pro
+User-agent: ht://Dig
+User-agent: HTMLgobble
+User-agent: Hyper-Decontextualizer
+User-agent: iajaBot
+User-agent: IBM_Planetwide
+User-agent: Popular Iconoclast
+User-agent: Ingrid
+User-agent: Imagelock
+User-agent: IncyWincy
+User-agent: Informant
+User-agent: InfoSeek Robot 1.0
+User-agent: Infoseek Sidewinder
+User-agent: InfoSpiders
+User-agent: Inspector Web
+User-agent: IntelliAgent
+User-agent: I, Robot
+User-agent: Iron33
+User-agent: Israeli-search
+User-agent: JavaBee
+User-agent: JBot Java Web Robot
+User-agent: JCrawler
+User-agent: eeves
+User-agent: JoBo Java Web Robot
+User-agent: Jobot
+User-agent: JoeBot
+User-agent: The Jubii Indexing Robot
+User-agent: JumpStation
+User-agent: image.kapsi.net
+User-agent: Katipo
+User-agent: KDD-Explorer
+User-agent: Kilroy
+User-agent: KO_Yappo_Robot
+User-agent: LabelGrabber
+User-agent: larbin
+User-agent: legs
+User-agent: Link Validator
+User-agent:LinkScan
+User-agent: LinkWalker
+User-agent: Lockon
+User-agent: logo.gif Crawler
+User-agent: Lycos
+User-agent: Mac WWWWorm
+User-agent: Magpie
+User-agent: marvin/infoseek
+User-agent: Mattie
+User-agent: MediaFox
+User-agent: MerzScope
+User-agent: NEC-MeshExplorer
+User-agent: MindCrawler
+User-agent: mnoGoSearch search engine software
+User-agent: moget
+User-agent: MOMspider
+User-agent: Monster
+User-agent: Motor
+User-agent: MSNBot
+User-agent: Muncher
+User-agent: Muninn
+User-agent: Muscat Ferret
+User-agent: Mwd.Search
+User-agent: Internet Shinchakubin
+User-agent: NDSpider
+User-agent: Nederland.zoek
+User-agent: NetCarta WebMap Engine
+User-agent: NetMechanic
+User-agent: NetScoop
+User-agent: newscan-online
+User-agent: NHSE Web Forager
+User-agent: Nomad
+User-agent: The NorthStar Robot
+User-agent: nzexplorer
+User-agent: ObjectsSearch
+User-agent: Occam
+User-agent: HKU WWW Octopus
+User-agent: OntoSpider
+User-agent: Openfind data gatherer
+User-agent: Orb Search
+User-agent: Pack Rat
+User-agent: PageBoy
+User-agent: ParaSite
+User-agent: Patric
+User-agent: pegasus
+User-agent: The Peregrinator
+User-agent: PerlCrawler 1.0
+User-agent: Phantom
+User-agent: PhpDig
+User-agent: PiltdownMan
+User-agent: Pimptrain.com's robot
+User-agent: Pioneer
+User-agent: html_analyzer
+User-agent: Portal Juice Spider
+User-agent: PGP Key Agent
+User-agent: PlumtreeWebAccessor
+User-agent: Poppi
+User-agent: PortalB Spider
+User-agent: psbot
+User-agent: GetterroboPlus Puu
+User-agent: The Python Robot
+User-agent: Raven Search
+User-agent: RBSE Spider
+User-agent: Resume Robot
+User-agent: RoadHouse Crawling System
+User-agent: RixBot
+User-agent: Road Runner: The ImageScape Robot
+User-agent: Robbie the Robot
+User-agent: ComputingSite Robi/1.0
+User-agent: RoboCrawl Spider
+User-agent: RoboFox
+User-agent: Robozilla
+User-agent: Roverbot
+User-agent: RuLeS
+User-agent: SafetyNet Robot
+User-agent: Scooter
+User-agent: Sleek
+User-agent: Search.Aus-AU.COM
+User-agent: SearchProcess
+User-agent: Senrigan
+User-agent: SG-Scout
+User-agent: ShagSeeker
+User-agent: Shai'Hulud
+User-agent: Sift
+User-agent: Simmany Robot Ver1.0
+User-agent: Site Valet
+User-agent: Open Text Index Robot
+User-agent: SiteTech-Rover
+User-agent: Skymob.com
+User-agent: SLCrawler
+User-agent: Inktomi Slurp
+User-agent: Smart Spider
+User-agent: Snooper
+User-agent: Solbot
+User-agent: Spanner
+User-agent: Speedy Spider
+User-agent: spider_monkey
+User-agent: SpiderBot
+User-agent: Spiderline Crawler
+User-agent: SpiderMan
+User-agent: SpiderView(tm)
+User-agent: Spry Wizard Robot
+User-agent: Site Searcher
+User-agent: Suke
+User-agent: suntek search engine
+User-agent: Sven
+User-agent: Sygol
+User-agent: TACH Black Widow
+User-agent: Tarantula
+User-agent: tarspider
+User-agent: Tcl W3 Robot
+User-agent: TechBOT
+User-agent: Templeton
+User-agent: TeomaTechnologies
+User-agent: TITAN
+User-agent: TitIn
+User-agent: The TkWWW Robot
+User-agent: TLSpider
+User-agent: UCSD Crawl
+User-agent: UdmSearch
+User-agent: UptimeBot
+User-agent: URL Check
+User-agent: URL Spider Pro
+User-agent: Valkyrie
+User-agent: Verticrawl
+User-agent: User-agent: Victoria
+User-agent: vision-search
+User-agent: void-bot
+User-agent: Voyager
+User-agent: VWbot
+User-agent: The NWI Robot
+User-agent: User-agent: W3M2
+User-agent: WallPaper (alias crawlpaper)
+User-agent: the World Wide Web Wanderer
+User-agent: w@pSpider by wap4.com
+User-agent: WebBandit Web Spider
+User-agent: WebCatcher
+User-agent: WebCopy
+User-agent: webfetcher
+User-agent: The Webfoot Robot
+User-agent: Webinator
+User-agent: weblayers
+User-agent: WebLinker
+User-agent: WebMirror
+User-agent: The Web Moose
+User-agent: WebQuest
+User-agent: Digimarc MarcSpider
+User-agent: WebReaper
+User-agent: webs
+User-agent: Websnarf
+User-agent: WebSpider
+User-agent: WebVac
+User-agent: webwalk
+User-agent: WebWalker
+User-agent: WebWatch
+User-agent: Wget
+User-agent: whatUseek Winona
+User-agent: WhoWhere Robot
+User-agent: Wired Digital
+User-agent: Weblog Monitor
+User-agent: w3mir
+User-agent: WebStolperer
+User-agent: The Web Wombat
+User-agent: The World Wide Web Worm
+User-agent: WWWC Ver 0.2.5
+User-agent: WebZinger
+User-agent: XGET
