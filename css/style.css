@@ -510,7 +510,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
-  padding-bottom: 20px;
+  padding-bottom:0px;
+  padding: 60px;
 }
 
 
